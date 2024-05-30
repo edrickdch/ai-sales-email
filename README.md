@@ -2,6 +2,8 @@
 
 Quick exploration I did to get started tinkering with llama3 and generate sales email for free, privately and locally.
 
+This is for demonstration purpose.
+
 ## Set up env
 
 You can make a virtualenv, and then:
