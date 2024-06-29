@@ -4,6 +4,8 @@ Quick exploration I did to get started tinkering with llama3 and generate sales 
 
 This is for demonstration purpose.
 
+Video breakdown: https://youtu.be/62iI-6nnkM4
+
 ## Set up env
 
 You can make a virtualenv, and then:
@@ -22,3 +24,7 @@ To download llama3 and run it locally
 `
 python main.py
 `
+
+## Mailing list
+
+https://practical-ai-builder.beehiiv.com/
